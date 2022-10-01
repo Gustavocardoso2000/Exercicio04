@@ -5,7 +5,7 @@ public class App {
     public static void main(String args []) {
         // Requisito 1 Pedir 4 notas bimestrais 
         Scanner sc = new Scanner(System.in);
-        // Pendindo 4 notas bimestrais
+        // Pendindo 4 notas
         System.out.print("Entre com a primeira Nota: ");
         double  n1 = sc.nextDouble();
         System.out.println("");
